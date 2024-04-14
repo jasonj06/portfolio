@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+}
+
+.nunito {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.centered-text {
+    text-align: center;
+}
